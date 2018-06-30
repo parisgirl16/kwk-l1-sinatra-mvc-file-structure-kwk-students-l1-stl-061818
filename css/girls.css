@@ -1,0 +1,161 @@
+h1 {
+    text-align: center;
+    color: #0D1257;
+    border: 12px double #003017;
+    background-image: url('http://blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-04.jpg') ;
+}
+
+h2 {
+    color: #0D1257;
+    border: 7px double #003017;
+    background-color: white;
+    text-align: center;
+    }
+    
+.disclaimer {
+        color: #0D1257;
+    border: 7px double #003017;
+    background-color: white;
+    }
+    
+h3 {
+    color: #0D1257;
+    border: 7px double #002760;
+    background-color: white;
+    text-align: center;
+}
+    
+.identity {
+    color: #0D1257;
+     border: 7px double #003017;
+    background-color: white;
+    font-size: 150%;
+}
+    
+.submit {
+    color: #0D1257;
+    border: 7px double #002760;
+    background-color: white;
+    font-size: 125%;
+}
+
+.you {
+    color: #0D1257;
+    border: 7px double #0D1257;
+    background-color: white;
+    font-size: 110%;
+}
+
+.you_bullied {
+    color: #0D1257;
+    border: 7px double #002760;
+    background-color: white;
+    text-align: center;
+}
+
+.friend {
+    color: #0D1257;
+    border: 7px double #002760;
+    background-color: white;
+    font-size: 110%;
+}
+
+.friend_bullied {
+    color: #0D1257;
+    border: 7px double #002760;
+    background-color: white;
+    text-align: center;
+}
+
+.dont {
+    color: #0D1257;
+    border: 7px double #002760;
+    background-color: white;
+    text-align: center;
+}
+
+.dont_list {
+    color: #0D1257;
+    border: 7px double #002760;
+    background-color: white;
+    font-size: 110%;
+}
+
+body {
+    background-image: url('https://i.pinimg.com/originals/03/db/66/03db667c6ae29846f610339b39532394.jpg');
+    background-size: cover;
+    color: black;
+}
+
+.symptoms {
+    color: #0D1257;
+    border: 7px double #002760;
+    background-color: white;
+    font-size: 110%;
+}
+
+.suicide {
+    color: #0D1257;
+    border: 7px double #002760;
+    background-color: white;
+    font-size: 110%;
+}
+
+hr {
+    color: #FFF074;
+}
+
+.city {
+    text-align: left;
+}
+
+.submit {
+    text-align: left;
+}
+.sc {
+    text-align: left;
+    font-size: 150%;
+}
+
+.girls {
+    text-align: center;
+}
+
+.boys {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 2;
+    padding: 0;
+    width: 1425px;
+    background-color: white;
+    text-align: center;
+    border: 7px double #002760;
+}
+
+li a {
+    display: block;
+    color: #0D1257;
+    padding: 8px 16px;
+    text-decoration: none;
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+.resorce_age{
+  text-align:center;
+}
+
+li a:hover:not(.active) {
+    text-align: center;
+background-image: url('https://i.pinimg.com/originals/03/db/66/03db667c6ae29846f610339b39532394.jpg');
+}

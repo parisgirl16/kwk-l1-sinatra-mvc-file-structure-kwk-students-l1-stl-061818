@@ -1,3 +1,5 @@
+require "./config/environment"
+
 class ApplicationController < Sinatra::Base
 
   configure do
@@ -6,10 +8,20 @@ class ApplicationController < Sinatra::Base
   end
 
   get '/' do
-  	erb :index
+  	return erb :index
   end
   
-  get '/newpage' do
-    erb :newpage
+  get '/views/girls.erb' do
+    return erb :girls 
+  end
+  
+  get '/views/boys.erb' do
+    return erb :boys 
+  end
+  
+  get '/views/about.erb' do
+    return erb :about
   end
 end
+
+

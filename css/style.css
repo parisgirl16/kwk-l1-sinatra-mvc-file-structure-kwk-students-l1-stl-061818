@@ -1,0 +1,78 @@
+h1 {
+    color: #003017;
+    text-align: center;
+    background-image: url("https://i.pinimg.com/originals/03/db/66/03db667c6ae29846f610339b39532394.jpg");
+}
+
+h2 {
+    color: white;
+    border-top: 5px white solid;
+    border-bottom:5px white solid;
+    text-align: center;
+}
+
+body {
+    background-image: url("http://blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-04.jpg");
+    background-size: cover;
+    color: white;
+    text-align:center;
+    border:7px #FFF074;
+}
+
+hr {
+    color: #FFF074;
+}
+
+.city {
+    text-align: left;
+}
+
+.submit {
+    text-align: left;
+}
+.sc {
+    text-align: left;
+    font-size: 150%;
+}
+
+.girls {
+    text-align: center;
+}
+
+.boys {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 2;
+    padding: 0;
+    width: 1425px;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+.resorce_age{
+  text-align: center;
+}
+
+li a:hover:not(.active) {
+    text-align: center;
+background-image: url("https://i.pinimg.com/originals/03/db/66/03db667c6ae29846f610339b39532394.jpg");
+}
